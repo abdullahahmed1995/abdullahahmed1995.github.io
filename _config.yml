@@ -41,15 +41,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/Abdulah83431357
   - title: facebook
-    url:
+    url: https://www.facebook.com/abdullahahmed5991/
   - title: linkedin
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.linkedin.com/in/abdullahahmed5991/
   - title: researchgate 
-    url: http://bitbucket.org/jekyll
+    url: https://www.researchgate.net/profile/Abdullah-Ahmed-35
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/abdullahahmed1995
 
 # Postal address (add as many lines as necessary)
 address:
